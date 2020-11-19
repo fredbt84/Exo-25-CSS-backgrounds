@@ -1,0 +1,72 @@
+.impair {
+    border-width: 4px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px green;
+}
+
+.pair {
+    border-width: 6px;
+    border-color: green;
+    border-style: dotted;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px red;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+    background-repeat: no-repeat;
+}
+
+#i1 {
+    background-image: url("chat aquatique.jpg");
+    background-size: cover;
+}
+
+#i2 {
+    background-image: url("chat bizarre.jpg");
+    background-size: 75%;
+}
+
+#i3 {
+    background-image: url("chat cool.jpg");
+    background-size: cover;
+}
+
+#i4 {
+    background-image: url("chat costaud.jpg");
+    background-size: 75%;
+}
+
+#i5 {
+    background-image: url("chat emballer.jpg");
+    background-size: cover;
+}
+
+#i6 {
+    background-image: url("chat farceur.jpg");
+    background-size: 75%;
+}
+
+#i7 {
+    background-image: url("chat gros.jpg");
+    background-size: cover;
+}
+
+#i8 {
+    background-image: url("chat karaté.jpg");
+    background-size: 75%;
+}
+
+#i9 {
+    background-image: url("chat souriant.jpg");
+    background-size: cover;
+}
+
+#i10 {
+    background-image: url("chat surpris.jpg");
+    background-size: 75%;
+}

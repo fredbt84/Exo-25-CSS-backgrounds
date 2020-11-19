@@ -22,7 +22,8 @@ Attention, piège !!
   
   4. Créez 10 div ayant pour width : 200px et height: 200px
   
-  5. Placez une image de votre choix dans chaque div, une image sur deux doit remplir tout le div, libre choix des règles CSS pour les autres.
+  5. Placez une image de votre choix dans chaque div, une image sur deux doit remplir tout le div, libre choix des 
+  règles CSS pour les autres.
   
   
   Bonus 1: placez des bordures de différents styles sur vos cadres div
